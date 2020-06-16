@@ -1,4 +1,6 @@
 body {
 	background-color: #c6c6c6;
 	color: #010101;
+	margin: 0;
+	padding: 0;/*for third commit*/
 }
